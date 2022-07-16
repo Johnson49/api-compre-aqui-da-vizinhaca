@@ -1,10 +1,10 @@
 <h1 lign="center" > Compre aqui da vizinhaça </h1>
 
-<p lign="center">
- <img src="https://camo.githubusercontent.com/459f141bd5e24c179a0e2dd49691e290ed5c5d4b4cb97767daee7cfaf6e31121/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d434f4e434c5549444f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765"/>
-</p>
+![GitHub](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 ![GitHub](https://img.shields.io/github/license/Johnson49/api-compre-aqui-da-vizinhaca)
+![GitHub](http://img.shields.io/static/v1?label=Python&message=3.10.4&color=blue&style=for-the-badge&logo=python)
+![GitHub](http://img.shields.io/static/v1?label=FastAPI&message=0.79.0&color=green&style=for-the-badge&logo=fastapi)
 
 > Status do Projeto: :heavy_check_mark: 
 
@@ -26,8 +26,6 @@
 O objetivo do projeto é para fornecer uma forma de moradores divulgarem e comprarem produtos em seus próprios bairros fomentando assim o comércio local.
 
 
-
-
 ## Arquitetura do projeto
 
 * API RESTFUL
@@ -38,7 +36,7 @@ O objetivo do projeto é para fornecer uma forma de moradores divulgarem e compr
 
 ## Pré-requisitos :warning:
 
-* Python 
+* Python 3.6+
 * Fastapi
 * Sqlite
 * Uvicorn
