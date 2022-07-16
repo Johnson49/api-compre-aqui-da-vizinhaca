@@ -39,7 +39,7 @@ O objetivo do projeto é para fornecer uma forma de moradores divulgarem e compr
 * DDD (domain driven design)
 
 
-## Pré-requisitos
+## Pré-requisitos :warning:
 
 * Python 
 * Fastapi
