@@ -48,7 +48,7 @@ O objetivo do projeto é para fornecer uma forma de moradores divulgarem e compr
 * Sqlalchemy
 * Passlib
 * Python-jose
-***
+
 ## Instalação: 
 
 ```python
