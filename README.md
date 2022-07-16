@@ -7,10 +7,10 @@
  <img src="https://img.shields.io/badge/license-MIT-green"/>
 </p>
 
-***
+
 
 > Status do Projeto: :heavy_check_mark: 
-***
+
 ## Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -23,13 +23,11 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação)
 
-***
 
 ## Descrição do projeto
 
 O objetivo do projeto é para fornecer uma forma de moradores divulgarem e comprarem produtos em seus próprios bairros fomentando assim o comércio local.
 
-***
 
 
 
@@ -40,7 +38,6 @@ O objetivo do projeto é para fornecer uma forma de moradores divulgarem e compr
 * MVC
 * DDD (domain driven design)
 
-***
 
 ## Pré-requisitos
 
@@ -55,19 +52,15 @@ O objetivo do projeto é para fornecer uma forma de moradores divulgarem e compr
 ## Instalação: 
 
 ```python
-$ git clone https://github.com/Johnson49/API-RESTFUL-PYTHON
-
-
+$ git clone https://github.com/Johnson49/api-compre-aqui-da-vizinhaca
 $ pip install -r requirements
 ```  
-***
+
 ## Como rodar a aplicação :arrow_forward:
 ```python
 $ uvicorn run.server:app --reload --reload-dir=run
 ```
 
-
-***
 ## Licença
 
 The [MIT License]() (MIT)
