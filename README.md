@@ -30,7 +30,7 @@ O objetivo do projeto é fornecer uma forma de moradores divulgarem e comprarem 
 
 * API RESTFUL
 * Clean Architecture 
-* MVC
+* MVC (model, view and controller)
 * DDD (domain driven design)
 
 
