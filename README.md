@@ -23,7 +23,7 @@
 
 ## Descrição do projeto
 
-O objetivo do projeto é para fornecer uma forma de moradores divulgarem e comprarem produtos em seus próprios bairros fomentando assim o comércio local.
+O objetivo do projeto é fornecer uma forma de moradores divulgarem e comprarem produtos em seus próprios bairros fomentando assim o comércio local.
 
 
 ## Arquitetura do projeto
