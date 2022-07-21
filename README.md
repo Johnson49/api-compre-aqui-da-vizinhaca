@@ -1,7 +1,5 @@
 <h1 align="center"> Compre aqui da vizinhaça </h1>
 
-![GitHub](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
-
 ![GitHub](https://img.shields.io/github/license/Johnson49/api-compre-aqui-da-vizinhaca)
 ![GitHub](http://img.shields.io/static/v1?label=Python&message=3.10.4&color=blue&style=for-the-badge&logo=python)
 ![GitHub](http://img.shields.io/static/v1?label=FastAPI&message=0.79.0&color=green&style=for-the-badge&logo=fastapi)
