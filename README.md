@@ -6,35 +6,21 @@
 ![GitHub](http://img.shields.io/static/v1?label=Python&message=3.10.4&color=blue&style=for-the-badge&logo=python)
 ![GitHub](http://img.shields.io/static/v1?label=FastAPI&message=0.79.0&color=green&style=for-the-badge&logo=fastapi)
 
-> Status do Projeto: :heavy_check_mark: 
+> Status do Projeto: :heavy_check_mark: Projeto concluído.
 
 ## Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+* [Informações gerais](#informações-gerais)
+* [Tecnologias](#tecnologias)
+* [Setup](#setup)
+* [Licença](#licença)
 
-:small_blue_diamond: [ Arquitetura do projeto](#arquitetura-do-projeto)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Instalação](#instalação)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação)
-
-
-## Descrição do projeto
+## Informações gerais
 
 O objetivo do projeto é fornecer uma forma de moradores divulgarem e comprarem produtos em seus próprios bairros fomentando assim o comércio local.
 
-
-## Arquitetura do projeto
-
-* API RESTFUL
-* Clean Architecture 
-* MVC (model, view and controller)
-* DDD (domain driven design)
-
-
-## Pré-requisitos :warning:
+## Tecnologias :warning:
+O projeto é criado com:
 
 * Python 3.6+
 * Fastapi
@@ -44,17 +30,15 @@ O objetivo do projeto é fornecer uma forma de moradores divulgarem e comprarem 
 * Passlib
 * Python-jose
 
-## Instalação: 
+## Setup
+> Para rodar este projeto, clone localmente e depois instale as dependências com um gerenciador de sua preferência.
 
 ```python
 $ git clone https://github.com/Johnson49/api-compre-aqui-da-vizinhaca
+$ cd api-compre-aqui-da-vizinhaca
 $ pip install -r requirements
-```  
-
-## Como rodar a aplicação :arrow_forward:
-```python
 $ uvicorn run.server:app --reload --reload-dir=run
-```
+```  
 
 ## Licença
 
